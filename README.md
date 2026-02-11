@@ -1,4 +1,5 @@
 # Road Hazard Detection using YOLOv8-Nano
+# VisionRoad: A Vision-Based Mobile Application for Road Surface Hazard Detection and Collision Response on Expressways
 
 ## 📌 Project Overview
 An AI-powered system designed to detect road hazards in real-time, including **Debris, Potholes, Uneven Terrain, and Road Cracks**. This project is built using the Ultralytics YOLOv8-Nano architecture for high-speed inference on edge devices.
@@ -10,3 +11,4 @@ An AI-powered system designed to detect road hazards in real-time, including **D
   - Potholes
   - Uneven Terrain
   - Road Cracks
+
