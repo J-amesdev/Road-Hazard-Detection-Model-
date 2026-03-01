@@ -13,7 +13,6 @@ mapping = {
     2: 6,  # Crack_Alligator
     3: 1   # Pothole (Default to Minor)
 }
-`
 def process_labels():
     for filename in os.listdir(RAW_LABEL_DIR):
         if not filename.endswith(".txt"): continue
