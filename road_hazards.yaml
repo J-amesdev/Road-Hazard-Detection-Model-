@@ -1,0 +1,13 @@
+path: ./data/processed
+train: images/train
+val: images/val
+test: images/test  
+
+names:
+  0: Debris
+  1: Pothole_Minor
+  2: Pothole_Major
+  3: Uneven_Terrain
+  4: Crack_Longitudinal
+  5: Crack_Transverse
+  6: Crack_Alligator
